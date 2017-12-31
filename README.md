@@ -6,7 +6,7 @@ Present **permutation-based SCMA** encoding/decoding algorithms for use in the r
 
 ## Description
 
-* codebooks are from [presentation](http://www.innovateasia.com/5g/images/pdf/1st%205G%20Algorithm%20Innovation%20Competition-ENV1.0%20-%20SCMA.pdf)
+* Codebooks are from [presentation](http://www.innovateasia.com/5g/images/pdf/1st%205G%20Algorithm%20Innovation%20Competition-ENV1.0%20-%20SCMA.pdf)
 
 * PDA algorithm is used
 
